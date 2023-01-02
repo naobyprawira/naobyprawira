@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Naoby Prawira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Hello;Hola;Hallo;Ciao;Bonjour" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello;Hola;Hallo;Ciao;Bonjour" alt="Typing SVG" /></a>
 </p>
 
 
@@ -60,8 +60,8 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://id.linkedin.com/in/naobypra)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://id.linkedin.com/in/naobypra" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  naobypra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -77,7 +77,7 @@
 
 <li>
 <a href="mailto:naobyprawira8@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  naobyprawira8-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -92,7 +92,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b> Thank You✨</b>
 
 </div>
 <br>
